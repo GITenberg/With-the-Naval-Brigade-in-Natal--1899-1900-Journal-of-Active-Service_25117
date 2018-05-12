@@ -1,0 +1,27 @@
+_repo: With-the-Naval-Brigade-in-Natal--1899-1900-Journal-of-Active-Service_25117
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Burne, C. R. N. (Charles Richard Newdigate)
+    alias: Burne, Charles Richard Newdigate
+    gutenberg_agent_id: '28416'
+    url: http://www.gutenberg.org/2009/agents/28416
+description: ''
+gutenberg_bookshelf: Boer War
+gutenberg_issued: '2008-04-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25117'
+  lccn: es24000016
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DT'
+- !lcsh 'South African War, 1899-1902'
+title: 'With the Naval Brigade in Natal, 1899-1900: Journal of Active Service'
+url: http://www.gutenberg.org/ebooks/25117

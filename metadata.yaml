@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '28416'
     url: http://www.gutenberg.org/2009/agents/28416
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25117#With-the-Naval-Brigade-in-Natal--1899-1900-Journal-of-Active-Service
 gutenberg_bookshelf: Boer War
 gutenberg_issued: '2008-04-21'
 gutenberg_type: Text
